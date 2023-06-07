@@ -1,0 +1,105 @@
+﻿Z '_Zoom
+ZE '_Zoom _Extents
+ZEA '_Zoom _All _Extents
+ZS '_Zoom _Selected
+ZSA '_Zoom _All _Selected
+O ! _Offset
+P '_Planar
+M ! _Move
+U _Undo
+POn ! _PointsOn
+POff ! _PointsOff
+C ! _Circle
+W '_SelWindow
+Con ! _Connect
+COff '_CurvatureGraphOff
+PlugInManager ! _OptionsPage _PlugIns
+AdvancedDisplay ! _OptionsPage _AdvancedSettings
+DisplayAttrsMgr ! _OptionsPage _AdvancedSettings
+Break ! _DeleteSubCrv
+SelPolysurface '_SelPolysrf
+ﾌﾟﾗｸﾞｲﾝﾏﾈｰｼﾞｬ ! _OptionsPage _PlugIns
+高度な表示 ! _OptionsPage _AdvancedSettings
+ﾎﾟﾘｻｰﾌｪｽを選択 '_SelPolysrf
+L ! _line
+Or '_Ortho
+Cr '_SelCrossing
+COnG '_CurvatureGraph
+Tr ! _Trim
+Ex ! _Extend
+Co !_Copy
+Pl !_Polyline
+D ! _Delete
+E ! _Ellipse
+Le ! _Length
+X ! _Explode
+Py !_EditPythonScript
+Rec ! _Rectangle
+Mi ! _Mirror
+Ro ! _Rotate
+A ! _Arc
+Lay ! _Layout
+Gh ! _Grasshopper
+Sr ! _PlanarSrf
+S1 ! _Scale1D
+S2 ! _Scale2D
+ExtC ! _ExtrudeCrv
+Ext ! _ExtrudeSrf
+Make ! _Make2d
+Arr ! _Array
+Bl ! _Block
+4v ! _4view
+Ar ! _Area
+B ! _Box
+Bd ! _BooleanDifference
+Bs ! _BooleanSplit
+Bu ! _BooleanUnion
+Bi ! _BooleanIntersection
+De ! _Detail
+Dim ! _Dim
+Dis ! _Distance
+Dp ! _DocumentProperties
+Epo ! _EditPtOn
+Exp ! _Export
+G ! _Group
+I ! _Intersect
+J ! _Join
+Lo ! _Loft
+M2 ! _Make2D
+Me ! _MoveEdge
+Mf ! _MoveFace
+Os ! _Osnap
+Pf ! _PictureFrame
+Po ! _PointsOn
+Pr ! _Print
+Pro ! _Properties
+Ro3 ! _Rotate3D
+Ug ! _Ungroup
+To ! _TextObject
+T ! _Text
+Srp ! _SrfPt
+Sp ! _Split
+Sv ! _SetView
+Sd ! _SetDisplayMode
+Gr ! _Grid
+Crv ! _Curve
+Ik ! _InsertKnot
+Icrv ! _InterpCrv
+Rk ! _RemoveKnot
+Sph ! _Sphere
+Cy ! _Cylinder
+imp ! _Import
+Sec ! _Section
+Arrp ! _ArrayPolar
+Bb ! _BackgroundBitmap
+Blm ! _BlockManager
+Fi ! _fillet
+La ! _layer
+Pic ! _PictureFrame
+Pt ! _point
+Sw1 ! _Sweep1
+Sw2 ! _Sweep2
+Ca ! _Cap
+Vo ! _Volume
+Cam ! _NamedView
+Ble ! _BlockEdit

@@ -1,0 +1,47 @@
+﻿Z '_Zoom
+ZE '_Zoom _Extents
+ZEA '_Zoom _All _Extents
+ZS '_Zoom _Selected
+ZSA '_Zoom _All _Selected
+S '_Snap
+O offset
+P point
+M ! _Move
+U _Undo
+POn ! _PointsOn
+POff ! _PointsOff
+C '_SelCrossing
+W '_SelWindow
+COn '_CurvatureGraph
+COff '_CurvatureGraphOff
+PlugInManager ! _OptionsPage _PlugIns
+AdvancedDisplay ! _OptionsPage _DisplayModes
+DisplayAttrsMgr ! _OptionsPage _DisplayModes
+Break ! _DeleteSubCrv
+SelPolysurface '_SelPolysrf
+L line
+bu booleanunion
+cc _ViewCaptureToClipboard
+BD BooleanDifference
+mf MergeAllFaces
+co Copy
+da _DimAligned
+ext Extend
+Exc ExtrudeCrv
+Exs ExtrudeSrf
+ps PlanarSrf
+xb ExplodeBlock
+x Explode
+h hide
+j join
+sh show
+wo worksession
+di Distance
+reb replaceblock
+etr ExtractSrf
+ca cap
+os OffsetSrf
+OC OffsetCrvOnSrf
+Due DupEdge
+exts ExtendSrf
+tr trim
